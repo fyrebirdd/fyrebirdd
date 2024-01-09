@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats-orcin-theta.vercel.app/api/top-langs/?username=fyrebirdd&layout=donut&theme=highcontrast)
+![Top Langs](https://github-readme-stats-orcin-theta.vercel.app/api/top-langs/?username=fyrebirdd&layout=donut&theme=highcontrast?&hide=shaderlab,)
 
 # My Projects
 
