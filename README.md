@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats-orcin-theta.vercel.app/api/top-langs/?username=fyrebirdd&layout=donut&theme=highcontrast?&hide=shaderlab&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats-orcin-theta.vercel.app/api/top-langs/?username=fyrebirdd&layout=donut&theme=great-gatsby&hide=shaderlab&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 # My Projects
 
